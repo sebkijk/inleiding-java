@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="I finished the bar graph, which means I finished assignment 4 of Chapter 4!">
-      <change afterPath="$PROJECT_DIR$/src/h04/h04O05.java" afterDir="false" />
+    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="I created a blue ellipse with a yellow pie piece in the ellipse. I hope I understood the assignment - otherwise I'll later change it!">
+      <change afterPath="$PROJECT_DIR$/src/h04/h04O06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Applet.h04O05">
-    <configuration name="OpdrachtUno (1)" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h03.OpdrachtUno" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.h04O06">
     <configuration name="h04O01" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.h04O01" />
       <module name="inleiding-java" />
@@ -90,13 +83,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="h04O06" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.h04O06" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.h04O06" />
         <item itemvalue="Applet.h04O05" />
         <item itemvalue="Applet.h04O03" />
         <item itemvalue="Applet.h04O02" />
         <item itemvalue="Applet.h04O01" />
-        <item itemvalue="Applet.OpdrachtUno (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602488617164</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="I created a blue ellipse with a yellow pie piece in the ellipse. I hope I understood the assignment - otherwise I'll later change it!">
+      <created>1602526171200</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602526171200</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,37 +228,38 @@
     <MESSAGE value="I created the flagpole, which means I finished assignment three of Chapter 4!" />
     <MESSAGE value="I created the bar graph, which means I finished assignment 4 of Chapter 4!" />
     <MESSAGE value="I finished the bar graph, which means I finished assignment 4 of Chapter 4!" />
-    <option name="LAST_COMMIT_MESSAGE" value="I finished the bar graph, which means I finished assignment 4 of Chapter 4!" />
+    <MESSAGE value="I created a blue ellipse with a yellow pie piece in the ellipse. I hope I understood the assignment - otherwise I'll later change it!" />
+    <option name="LAST_COMMIT_MESSAGE" value="I created a blue ellipse with a yellow pie piece in the ellipse. I hope I understood the assignment - otherwise I'll later change it!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602085582574">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.962@0.23.1680.962" timestamp="1602085582574" />
-    <state width="1187" height="258" key="GridCell.Tab.0.bottom" timestamp="1602525957786">
+    <state width="593" height="258" key="GridCell.Tab.0.bottom" timestamp="1602526886266">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1187" height="258" key="GridCell.Tab.0.bottom/0.23.1680.962@0.0.1680.1050" timestamp="1602485598306" />
-    <state width="1187" height="258" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1602525957786" />
-    <state width="1187" height="258" key="GridCell.Tab.0.center" timestamp="1602525957786">
+    <state width="593" height="258" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1602526886266" />
+    <state width="593" height="258" key="GridCell.Tab.0.center" timestamp="1602526886265">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1187" height="258" key="GridCell.Tab.0.center/0.23.1680.962@0.0.1680.1050" timestamp="1602485598305" />
-    <state width="1187" height="258" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1602525957786" />
-    <state width="1187" height="258" key="GridCell.Tab.0.left" timestamp="1602525957785">
+    <state width="593" height="258" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1602526886265" />
+    <state width="593" height="258" key="GridCell.Tab.0.left" timestamp="1602526886265">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1187" height="258" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602485598303" />
-    <state width="1187" height="258" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1602525957785" />
-    <state width="1187" height="258" key="GridCell.Tab.0.right" timestamp="1602525957786">
+    <state width="593" height="258" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1602526886265" />
+    <state width="593" height="258" key="GridCell.Tab.0.right" timestamp="1602526886266">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1187" height="258" key="GridCell.Tab.0.right/0.23.1680.962@0.0.1680.1050" timestamp="1602485598305" />
-    <state width="1187" height="258" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1602525957786" />
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1602488703030">
+    <state width="593" height="258" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1602526886266" />
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1602526185061">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1602488703030" />
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1602526185061" />
     <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.963@0.23.1680.963" timestamp="1602415663228" />
     <state x="889" y="621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602488680287">
       <screen x="0" y="23" width="1680" height="962" />
