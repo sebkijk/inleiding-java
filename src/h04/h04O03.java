@@ -19,6 +19,9 @@ public class h04O03 extends Applet {
         g.drawRect(40,140,200,100);
         g.setColor(Color.blue);
         g.fillRect(40,240,200,100);
+        g.setColor(Color.black);
+        g.drawRect(20,40,20,800);
+        g.drawOval(20,20,20,20);
 
     }
 }
