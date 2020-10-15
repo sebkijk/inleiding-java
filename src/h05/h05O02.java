@@ -7,20 +7,20 @@ import java.awt.*;
 public class h05O02 extends Applet {
 
     // Variabelen Gewicht
-    int breedte, hoogte1, hoogte2, hoogte3;
+    int breedte, y, y2;
 
     //Kleuren
     Color Valerie = Color.blue;
     Color Jeroen = Color.red;
     Color Hans = Color.yellow;
     Color Lijnen = Color.black;
+    ;
 
     public void init() {
         setBackground(Color.white);
         breedte = 20;
-        hoogte1 = 40;
-        hoogte2 = 100;
-        hoogte3 = 80;
+        y = 400;
+        y2 = 80;
 
     }
 
@@ -31,21 +31,23 @@ public class h05O02 extends Applet {
         g.drawLine(50,200,50,400);
         g.drawLine(50,400,400,400);
 
+
         // Valerie
         g.setColor(Valerie);
-        g.fillRect(70,360,breedte,hoogte1);
+        g.fillRect(70,y,breedte,-y2);
         g.setColor(Lijnen);
         g.drawString("Valerie",65,420);
 
         // Jeroen
         g.setColor(Jeroen);
-        g.fillRect(150,300,breedte,hoogte2);
+        g.fillRect(150,y,breedte,-y2);
         g.setColor(Lijnen);
         g.drawString("Jeroen",145,420);
 
+
         // Hans
         g.setColor(Hans);
-        g.fillRect(230,320,breedte,hoogte3);
+        g.fillRect(230,y,breedte,-y2);
         g.setColor(Lijnen);
         g.drawString("Hans",225,420);
 
