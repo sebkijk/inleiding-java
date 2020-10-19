@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="I created a blue ellipse with a yellow pie piece in the ellipse. I hope I understood the assignment - otherwise I'll later change it!">
-      <change afterPath="$PROJECT_DIR$/src/h04/h04O06.java" afterDir="false" />
+    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="Finally - and I mean finally - figured out a way to sort of finish this assignment. However - I would like to try it one more time, after my school day on Monday 19/10/20.">
+      <change afterPath="$PROJECT_DIR$/src/h05/h05O02B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,24 +46,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Applet.h04O06">
-    <configuration name="h04O01" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.h04O01" />
+  <component name="RunManager" selected="Applet.h05O02B">
+    <configuration name="Logo01" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PF.Logo01" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h04O02" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.h04O02" />
+    <configuration name="Logo01B" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PF.Logo01B" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h04O03" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.h04O03" />
+    <configuration name="Zelfportret1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PF.Zelfportret1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,15 +77,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h04O05" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.h04O05" />
+    <configuration name="h05O02" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.h05O02" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h04O06" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.h04O06" />
+    <configuration name="h05O02B" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.h05O02B" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.h04O06" />
-        <item itemvalue="Applet.h04O05" />
-        <item itemvalue="Applet.h04O03" />
-        <item itemvalue="Applet.h04O02" />
-        <item itemvalue="Applet.h04O01" />
+        <item itemvalue="Applet.h05O02B" />
+        <item itemvalue="Applet.h05O02" />
+        <item itemvalue="Applet.Zelfportret1" />
+        <item itemvalue="Applet.Logo01B" />
+        <item itemvalue="Applet.Logo01" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +201,91 @@
       <option name="project" value="LOCAL" />
       <updated>1602526171200</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="My stoplight is finished! I'm pretty proud and happy with this one! Time for assignment 7 after this!">
+      <created>1602527311918</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602527311918</updated>
+    </task>
+    <task id="LOCAL-00015" summary="I finished assignment 7 of Chapter 4. I think I'm getting the hang of it. The only things left for chapter 4 are the practical assignment and the questions.">
+      <created>1602528079484</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602528079484</updated>
+    </task>
+    <task id="LOCAL-00016" summary="I finished questions of Chapter 4. Once again I've answered them in Java. I think that's pretty funny, so I'll keep on doing that!">
+      <created>1602529521129</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602529521129</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added the line for the practical assignment!">
+      <created>1602530143706</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602530143706</updated>
+    </task>
+    <task id="LOCAL-00018" summary="I finished the Practical Assignment of Chapter 4. I'm getting the hang of this!">
+      <created>1602543855415</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602543855415</updated>
+    </task>
+    <task id="LOCAL-00019" summary="I finished the video tutorial of Chapter 5. I created a button (en maakte ook gebruik van variabelen).">
+      <created>1602547963837</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602547963837</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Ik ben begonnen aan het maken van mijn Portfolio. Als eerste stap leek het me leuk om een logo na te maken. Ik heb ervoor gekozen om The Flash Logo na te maken!">
+      <created>1602554165378</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1602554165378</updated>
+    </task>
+    <task id="LOCAL-00021" summary="This is the result of the first assignment of Chapter 5. I labeled it 1A, because I already uploaded O01 for the video assignment.">
+      <created>1602580069139</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1602580069139</updated>
+    </task>
+    <task id="LOCAL-00022" summary="I'm working on Assignment 2 of Chapter 5. I've recreated the diagram, but the work is not yet finished.">
+      <created>1602582654273</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1602582654273</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Started programming a self portrait for my portfolio!">
+      <created>1602587752129</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602587752129</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Working on assignment 2 of Chapter 5.">
+      <created>1602768040580</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1602768040580</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Finally - and I mean finally - figured out a way to sort of finish this assignment. However - I would like to try it one more time, after my school day on Monday 19/10/20.">
+      <created>1602853477256</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602853477257</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,37 +314,49 @@
     <MESSAGE value="I created the bar graph, which means I finished assignment 4 of Chapter 4!" />
     <MESSAGE value="I finished the bar graph, which means I finished assignment 4 of Chapter 4!" />
     <MESSAGE value="I created a blue ellipse with a yellow pie piece in the ellipse. I hope I understood the assignment - otherwise I'll later change it!" />
-    <option name="LAST_COMMIT_MESSAGE" value="I created a blue ellipse with a yellow pie piece in the ellipse. I hope I understood the assignment - otherwise I'll later change it!" />
+    <MESSAGE value="My stoplight is finished! I'm pretty proud and happy with this one! Time for assignment 7 after this!" />
+    <MESSAGE value="I finished assignment 7 of Chapter 4. I think I'm getting the hang of it. The only things left for chapter 4 are the practical assignment and the questions." />
+    <MESSAGE value="I finished questions of Chapter 4. Once again I've answered them in Java. I think that's pretty funny, so I'll keep on doing that!" />
+    <MESSAGE value="Added the line for the practical assignment!" />
+    <MESSAGE value="I finished the Practical Assignment of Chapter 4. I'm getting the hang of this!" />
+    <MESSAGE value="I finished the video tutorial of Chapter 5. I created a button (en maakte ook gebruik van variabelen)." />
+    <MESSAGE value="Ik ben begonnen aan het maken van mijn Portfolio. Als eerste stap leek het me leuk om een logo na te maken. Ik heb ervoor gekozen om The Flash Logo na te maken!" />
+    <MESSAGE value="This is the result of the first assignment of Chapter 5. I labeled it 1A, because I already uploaded O01 for the video assignment." />
+    <MESSAGE value="I'm working on Assignment 2 of Chapter 5. I've recreated the diagram, but the work is not yet finished." />
+    <MESSAGE value="Started programming a self portrait for my portfolio!" />
+    <MESSAGE value="Working on assignment 2 of Chapter 5." />
+    <MESSAGE value="Finally - and I mean finally - figured out a way to sort of finish this assignment. However - I would like to try it one more time, after my school day on Monday 19/10/20." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally - and I mean finally - figured out a way to sort of finish this assignment. However - I would like to try it one more time, after my school day on Monday 19/10/20." />
   </component>
   <component name="WindowStateProjectService">
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602085582574">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.962@0.23.1680.962" timestamp="1602085582574" />
-    <state width="593" height="258" key="GridCell.Tab.0.bottom" timestamp="1602526886266">
+    <state width="1187" height="317" key="GridCell.Tab.0.bottom" timestamp="1603105653546">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1187" height="258" key="GridCell.Tab.0.bottom/0.23.1680.962@0.0.1680.1050" timestamp="1602485598306" />
-    <state width="593" height="258" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1602526886266" />
-    <state width="593" height="258" key="GridCell.Tab.0.center" timestamp="1602526886265">
+    <state width="1187" height="329" key="GridCell.Tab.0.bottom/0.23.1680.962@0.0.1680.1050" timestamp="1602768476070" />
+    <state width="1187" height="317" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1603105653546" />
+    <state width="1187" height="317" key="GridCell.Tab.0.center" timestamp="1603105653544">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1187" height="258" key="GridCell.Tab.0.center/0.23.1680.962@0.0.1680.1050" timestamp="1602485598305" />
-    <state width="593" height="258" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1602526886265" />
-    <state width="593" height="258" key="GridCell.Tab.0.left" timestamp="1602526886265">
+    <state width="1187" height="329" key="GridCell.Tab.0.center/0.23.1680.962@0.0.1680.1050" timestamp="1602768476069" />
+    <state width="1187" height="317" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1603105653544" />
+    <state width="1187" height="317" key="GridCell.Tab.0.left" timestamp="1603105653543">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1187" height="258" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602485598303" />
-    <state width="593" height="258" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1602526886265" />
-    <state width="593" height="258" key="GridCell.Tab.0.right" timestamp="1602526886266">
+    <state width="1187" height="329" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602768476061" />
+    <state width="1187" height="317" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1603105653543" />
+    <state width="1187" height="317" key="GridCell.Tab.0.right" timestamp="1603105653544">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1187" height="258" key="GridCell.Tab.0.right/0.23.1680.962@0.0.1680.1050" timestamp="1602485598305" />
-    <state width="593" height="258" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1602526886266" />
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1602526185061">
+    <state width="1187" height="329" key="GridCell.Tab.0.right/0.23.1680.962@0.0.1680.1050" timestamp="1602768476070" />
+    <state width="1187" height="317" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1603105653544" />
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1602853479606">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1602526185061" />
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1602853479606" />
     <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.963@0.23.1680.963" timestamp="1602415663228" />
     <state x="889" y="621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602488680287">
       <screen x="0" y="23" width="1680" height="962" />
@@ -269,5 +366,9 @@
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state x="171" y="134" key="new project wizard/0.23.1680.962@0.23.1680.962" timestamp="1602070113250" />
+    <state x="918" y="207" width="670" height="676" key="search.everywhere.popup" timestamp="1603104496615">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="918" y="207" width="670" height="676" key="search.everywhere.popup/0.23.1680.962@0.23.1680.962" timestamp="1603104496615" />
   </component>
 </project>
