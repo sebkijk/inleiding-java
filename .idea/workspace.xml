@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="I finished assignment 2 the way the teachers intended the assignment to be finished. I did it! Yay :)">
+    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="I answered the questions of Chapter 6. Now I'll continue to work on the first assignment.">
+      <change afterPath="$PROJECT_DIR$/src/h06/h06O01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,21 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Applet.h05O02B">
-    <configuration name="Logo01" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PF.Logo01" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Logo01B" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PF.Logo01B" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.h06O01">
     <configuration name="Zelfportret1" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PF.Zelfportret1" />
       <module name="inleiding-java" />
@@ -90,13 +77,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="h06O01" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.h06O01" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h06Vragen" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.h06Vragen" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.h06O01" />
+        <item itemvalue="Applet.h06Vragen" />
         <item itemvalue="Applet.h05O02B" />
         <item itemvalue="Applet.h05O02" />
         <item itemvalue="Applet.Zelfportret1" />
-        <item itemvalue="Applet.Logo01B" />
-        <item itemvalue="Applet.Logo01" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +292,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603105678626</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="I finished assignment 2 the way the teachers intended the assignment to be finished. I did it! Yay :)">
+      <created>1603105834843</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1603105834843</updated>
+    </task>
+    <task id="LOCAL-00028" summary="I answered the questions of Chapter 6. Now I'll continue to work on the first assignment.">
+      <created>1603108492981</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603108492981</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,8 +322,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change text from &quot;Hallo klas 8A!&quot; to &quot;Hallo cohort 0&quot;." />
-    <MESSAGE value="Changed text from &quot;Hallo klas 8A!&quot; to &quot;Hello World!&quot;." />
     <MESSAGE value="Completed the Assignment. I have written my name in the color yellow and I used a blue background." />
     <MESSAGE value="Completed the second Assignment. I have written my first name in the color blue and I used the color red for my last name. I also put my last name under my first name!" />
     <MESSAGE value="This isn't a necessary assignment, but I thought it would be fun to answer the questions in the Java Screen. I'm working on them right now. I finished the first question and will continue tonight or tomorrow!" />
@@ -332,37 +345,43 @@
     <MESSAGE value="Started programming a self portrait for my portfolio!" />
     <MESSAGE value="Working on assignment 2 of Chapter 5." />
     <MESSAGE value="Finally - and I mean finally - figured out a way to sort of finish this assignment. However - I would like to try it one more time, after my school day on Monday 19/10/20." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finally - and I mean finally - figured out a way to sort of finish this assignment. However - I would like to try it one more time, after my school day on Monday 19/10/20." />
+    <MESSAGE value="I finished assignment 2 the way the teachers intended the assignment to be finished. I did it! Yay :)" />
+    <MESSAGE value="I answered the questions of Chapter 6. Now I'll continue to work on the first assignment." />
+    <option name="LAST_COMMIT_MESSAGE" value="I answered the questions of Chapter 6. Now I'll continue to work on the first assignment." />
   </component>
   <component name="WindowStateProjectService">
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602085582574">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.962@0.23.1680.962" timestamp="1602085582574" />
-    <state width="1187" height="317" key="GridCell.Tab.0.bottom" timestamp="1603105685407">
+    <state width="1187" height="317" key="GridCell.Tab.0.bottom" timestamp="1603109023943">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1187" height="329" key="GridCell.Tab.0.bottom/0.23.1680.962@0.0.1680.1050" timestamp="1602768476070" />
-    <state width="1187" height="317" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1603105685407" />
-    <state width="1187" height="317" key="GridCell.Tab.0.center" timestamp="1603105685406">
+    <state width="1187" height="317" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1603109023943" />
+    <state width="1187" height="317" key="GridCell.Tab.0.center" timestamp="1603109023942">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1187" height="329" key="GridCell.Tab.0.center/0.23.1680.962@0.0.1680.1050" timestamp="1602768476069" />
-    <state width="1187" height="317" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1603105685406" />
-    <state width="1187" height="317" key="GridCell.Tab.0.left" timestamp="1603105685406">
+    <state width="1187" height="317" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1603109023942" />
+    <state width="1187" height="317" key="GridCell.Tab.0.left" timestamp="1603109023940">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1187" height="329" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602768476061" />
-    <state width="1187" height="317" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1603105685406" />
-    <state width="1187" height="317" key="GridCell.Tab.0.right" timestamp="1603105685407">
+    <state width="1187" height="317" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1603109023940" />
+    <state width="1187" height="317" key="GridCell.Tab.0.right" timestamp="1603109023942">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1187" height="329" key="GridCell.Tab.0.right/0.23.1680.962@0.0.1680.1050" timestamp="1602768476070" />
-    <state width="1187" height="317" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1603105685407" />
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1603105770793">
+    <state width="1187" height="317" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1603109023942" />
+    <state x="737" y="434" key="VCS.EditChangelistDialog" timestamp="1603105795155">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1603105770793" />
+    <state x="737" y="434" key="VCS.EditChangelistDialog/0.23.1680.962@0.23.1680.962" timestamp="1603105795155" />
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1603108494281">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1603108494281" />
     <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.963@0.23.1680.963" timestamp="1602415663228" />
     <state x="889" y="621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602488680287">
       <screen x="0" y="23" width="1680" height="962" />
