@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="I answered the questions of Chapter 6. Now I'll continue to work on the first assignment.">
-      <change afterPath="$PROJECT_DIR$/src/h06/h06O01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="First Assignment of Chapter 6 is finished. Onto the next one." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -306,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603108492981</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="First Assignment of Chapter 6 is finished. Onto the next one.">
+      <created>1603109185993</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1603109185993</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,7 +326,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Completed the Assignment. I have written my name in the color yellow and I used a blue background." />
     <MESSAGE value="Completed the second Assignment. I have written my first name in the color blue and I used the color red for my last name. I also put my last name under my first name!" />
     <MESSAGE value="This isn't a necessary assignment, but I thought it would be fun to answer the questions in the Java Screen. I'm working on them right now. I finished the first question and will continue tonight or tomorrow!" />
     <MESSAGE value="I finished the other questions. I used the color red for the questions and the color blue for the answers." />
@@ -347,7 +350,8 @@
     <MESSAGE value="Finally - and I mean finally - figured out a way to sort of finish this assignment. However - I would like to try it one more time, after my school day on Monday 19/10/20." />
     <MESSAGE value="I finished assignment 2 the way the teachers intended the assignment to be finished. I did it! Yay :)" />
     <MESSAGE value="I answered the questions of Chapter 6. Now I'll continue to work on the first assignment." />
-    <option name="LAST_COMMIT_MESSAGE" value="I answered the questions of Chapter 6. Now I'll continue to work on the first assignment." />
+    <MESSAGE value="First Assignment of Chapter 6 is finished. Onto the next one." />
+    <option name="LAST_COMMIT_MESSAGE" value="First Assignment of Chapter 6 is finished. Onto the next one." />
   </component>
   <component name="WindowStateProjectService">
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602085582574">
@@ -378,10 +382,10 @@
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state x="737" y="434" key="VCS.EditChangelistDialog/0.23.1680.962@0.23.1680.962" timestamp="1603105795155" />
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1603108494281">
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1603109207074">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1603108494281" />
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1603109207074" />
     <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.963@0.23.1680.963" timestamp="1602415663228" />
     <state x="889" y="621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602488680287">
       <screen x="0" y="23" width="1680" height="962" />
