@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="Finished Assignment 2 of Chapter 6. Easy-peasy, lemon-squeezy!">
-      <change afterPath="$PROJECT_DIR$/src/h06/h06O03.java" afterDir="false" />
+    <list default="true" id="17434990-6d68-4c98-8eeb-ef5a9398f9a7" name="Default Changelist" comment="Finished Assignment 3 of Chapter 6. Easy-peasy, lemon-squeezy!">
+      <change afterPath="$PROJECT_DIR$/src/h06/h06PO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,16 +48,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Applet.h06O03">
+  <component name="RunManager" selected="Applet.h06PO">
     <configuration name="h04O04" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.h04O04" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="h05O02B" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h05.h05O02B" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,6 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="h06PO" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.h06PO" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="h06Vragen" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h06.h06Vragen" />
       <module name="inleiding-java" />
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.h06PO" />
         <item itemvalue="Applet.h06O03" />
         <item itemvalue="Applet.h06O02" />
         <item itemvalue="Applet.h06O01" />
         <item itemvalue="Applet.h06Vragen" />
-        <item itemvalue="Applet.h05O02B" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603112342673</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Finished Assignment 3 of Chapter 6. Easy-peasy, lemon-squeezy!">
+      <created>1603209426665</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1603209426665</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,7 +350,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="This isn't a necessary assignment, but I thought it would be fun to answer the questions in the Java Screen. I'm working on them right now. I finished the first question and will continue tonight or tomorrow!" />
     <MESSAGE value="I finished the other questions. I used the color red for the questions and the color blue for the answers." />
     <MESSAGE value="I finally figured out how to create a triangle in Java. I finished the first assignment for Chapter 4 of this course." />
     <MESSAGE value="I created a house with one door, a triangle roof, two windows and a doorknob. I made this for the second assignment of chapter 4." />
@@ -368,41 +374,42 @@
     <MESSAGE value="I answered the questions of Chapter 6. Now I'll continue to work on the first assignment." />
     <MESSAGE value="First Assignment of Chapter 6 is finished. Onto the next one." />
     <MESSAGE value="Finished Assignment 2 of Chapter 6. Easy-peasy, lemon-squeezy!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Assignment 2 of Chapter 6. Easy-peasy, lemon-squeezy!" />
+    <MESSAGE value="Finished Assignment 3 of Chapter 6. Easy-peasy, lemon-squeezy!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Assignment 3 of Chapter 6. Easy-peasy, lemon-squeezy!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602085582574">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state x="323" y="251" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.962@0.23.1680.962" timestamp="1602085582574" />
-    <state width="1187" height="314" key="GridCell.Tab.0.bottom" timestamp="1603209402189">
+    <state width="1187" height="314" key="GridCell.Tab.0.bottom" timestamp="1603210816310">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1187" height="329" key="GridCell.Tab.0.bottom/0.23.1680.962@0.0.1680.1050" timestamp="1602768476070" />
-    <state width="1187" height="314" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1603209402189" />
-    <state width="1187" height="314" key="GridCell.Tab.0.center" timestamp="1603209402188">
+    <state width="1187" height="314" key="GridCell.Tab.0.bottom/0.23.1680.962@0.0.1680.1050" timestamp="1603210574925" />
+    <state width="1187" height="314" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1603210816310" />
+    <state width="1187" height="314" key="GridCell.Tab.0.center" timestamp="1603210816310">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1187" height="329" key="GridCell.Tab.0.center/0.23.1680.962@0.0.1680.1050" timestamp="1602768476069" />
-    <state width="1187" height="314" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1603209402188" />
-    <state width="1187" height="314" key="GridCell.Tab.0.left" timestamp="1603209402187">
+    <state width="1187" height="314" key="GridCell.Tab.0.center/0.23.1680.962@0.0.1680.1050" timestamp="1603210574924" />
+    <state width="1187" height="314" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1603210816310" />
+    <state width="1187" height="314" key="GridCell.Tab.0.left" timestamp="1603210816309">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1187" height="329" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602768476061" />
-    <state width="1187" height="314" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1603209402187" />
-    <state width="1187" height="314" key="GridCell.Tab.0.right" timestamp="1603209402189">
+    <state width="1187" height="314" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1603210574914" />
+    <state width="1187" height="314" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1603210816309" />
+    <state width="1187" height="314" key="GridCell.Tab.0.right" timestamp="1603210816310">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1187" height="329" key="GridCell.Tab.0.right/0.23.1680.962@0.0.1680.1050" timestamp="1602768476070" />
-    <state width="1187" height="314" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1603209402189" />
+    <state width="1187" height="314" key="GridCell.Tab.0.right/0.23.1680.962@0.0.1680.1050" timestamp="1603210574924" />
+    <state width="1187" height="314" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1603210816310" />
     <state x="737" y="434" key="VCS.EditChangelistDialog" timestamp="1603105795155">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state x="737" y="434" key="VCS.EditChangelistDialog/0.23.1680.962@0.23.1680.962" timestamp="1603105795155" />
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1603112344075">
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2" timestamp="1603209428126">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1603112344075" />
+    <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1603209428126" />
     <state x="545" y="358" key="Vcs.Push.Dialog.v2/0.23.1680.963@0.23.1680.963" timestamp="1602415663228" />
     <state x="889" y="621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602488680287">
       <screen x="0" y="23" width="1680" height="962" />
