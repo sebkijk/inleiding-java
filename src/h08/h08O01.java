@@ -39,6 +39,7 @@ public class h08O01 extends Applet {
     }
     class ResetListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
+
             tekstvak.setText("");
         }
     }
